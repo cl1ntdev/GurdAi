@@ -6,7 +6,7 @@
 ### /Controller/api 
 - this is like the server, it will automatically run after 
 
-bash```
+```
     symfony server:start
 ```
 
